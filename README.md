@@ -2,6 +2,7 @@ Simon-AVR_v2
 ============
 
 Simon LED Game built on custom PCB board. 
+Programmed using AVR.
 
 Peripherals include:
 
